@@ -211,7 +211,7 @@ Women deserve opportunities to rediscover their passions, develop new skills, an
 ![Finder](screenshots/4.png)
 
 
-##Save Opportunity
+### Save Opportunity
 ![Finder](screenshots/5.png)
 
 
@@ -225,7 +225,6 @@ Women deserve opportunities to rediscover their passions, develop new skills, an
 
 ### Community Section
 ![Community](screenshots/8.png)
-
 
 ## 👩‍💻 Author
 
