@@ -197,24 +197,36 @@ Women deserve opportunities to rediscover their passions, develop new skills, an
 ---
 ## 📸 Screenshots
 
-### Landing Page
+### Welcome Page
 ![Welcome Page](screenshots/1.png)
+
+
+## Landing Page
 ![Landing Page](screenshots/2.png)
 
 
 ### Opportunity Finder
 ![Finder](screenshots/3.png)
+
 ![Finder](screenshots/4.png)
+
+
+##Save Opportunity
 ![Finder](screenshots/5.png)
+
 
 ### Business Ideas
 ![Business](screenshots/6.png)
 
+
 ### Events Section
 ![Events](screenshots/7.png)
 
+
 ### Community Section
 ![Community](screenshots/8.png)
+
+
 ## 👩‍💻 Author
 
 Digisha Adhaduk  
