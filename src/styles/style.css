@@ -1,0 +1,340 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+font-family:'Poppins', sans-serif;
+background:#faf7fb;
+color:#333;
+line-height:1.6;
+}
+
+/* GLOBAL SECTION */
+
+section{
+padding:110px 120px;
+max-width:1300px;
+margin:auto;
+}
+
+section h2{
+text-align:center;
+font-size:36px;
+margin-bottom:45px;
+font-weight:700;
+}
+
+/* NAVBAR */
+
+.nav{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:22px 90px;
+background:white;
+box-shadow:0 4px 15px rgba(0,0,0,0.08);
+position:sticky;
+top:0;
+z-index:100;
+}
+
+.nav h2{
+font-weight:700;
+color:#e91e63;
+font-size:22px;
+}
+
+.nav ul{
+display:flex;
+gap:35px;
+list-style:none;
+font-weight:500;
+}
+
+.nav li{
+cursor:pointer;
+transition:0.3s;
+}
+
+.nav li:hover{
+color:#e91e63;
+}
+
+.nav button{
+background:linear-gradient(135deg,#ff4b8b,#8e44ad);
+border:none;
+padding:12px 22px;
+border-radius:25px;
+color:white;
+font-weight:600;
+cursor:pointer;
+transition:0.3s;
+}
+
+.nav button:hover{
+transform:scale(1.05);
+}
+.nav-right{
+display:flex;
+align-items:center;
+gap:20px;
+}
+
+.lang{
+padding:8px 12px;
+border-radius:8px;
+border:1px solid #ddd;
+font-family:'Poppins';
+}
+/* HERO */
+
+.hero{
+text-align:center;
+padding:150px 20px 120px 20px;
+background:linear-gradient(180deg,#fff,#f5ecfa);
+}
+
+.hero h1{
+font-size:52px;
+font-weight:700;
+margin-bottom:18px;
+}
+
+.hero span{
+color:#e91e63;
+}
+
+.hero p{
+font-size:18px;
+color:#666;
+margin-bottom:35px;
+max-width:600px;
+margin-left:auto;
+margin-right:auto;
+}
+
+.hero button{
+padding:14px 32px;
+border-radius:30px;
+border:none;
+background:#e91e63;
+color:white;
+font-weight:600;
+cursor:pointer;
+font-size:15px;
+transition:0.3s;
+}
+
+.hero button:hover{
+transform:scale(1.06);
+box-shadow:0 8px 20px rgba(0,0,0,0.15);
+}
+/* INTRO PAGE */
+
+.intro{
+display:flex;
+align-items:center;
+justify-content:center;
+gap:80px;
+padding:120px 100px;
+min-height:100vh;
+background:linear-gradient(135deg,#ff4b8b,#8e44ad);
+color:white;
+}
+
+.intro-left img{
+width:420px;
+max-width:100%;
+}
+
+.intro-right{
+max-width:520px;
+}
+
+.intro-right h1{
+font-size:48px;
+margin-bottom:15px;
+}
+
+.intro-right h3{
+font-size:24px;
+margin-bottom:18px;
+}
+
+.intro-right p{
+font-size:17px;
+margin-bottom:30px;
+line-height:1.6;
+}
+
+.intro-right button{
+background:white;
+color:#e91e63;
+border:none;
+padding:14px 30px;
+border-radius:30px;
+font-size:16px;
+font-weight:600;
+cursor:pointer;
+transition:0.3s;
+}
+
+.intro-right button:hover{
+transform:scale(1.05);
+}
+/* SEARCH */
+
+.finder input{
+padding:16px 22px;
+border-radius:30px;
+border:1px solid #ddd;
+width:380px;
+display:block;
+margin:20px auto 50px auto;
+font-size:15px;
+outline:none;
+transition:0.2s;
+}
+
+.finder input:focus{
+border-color:#e91e63;
+box-shadow:0 0 5px rgba(233,30,99,0.3);
+}
+
+/* CARDS */
+
+.cards{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(230px,1fr));
+gap:35px;
+}
+
+.card{
+background:white;
+padding:32px;
+border-radius:14px;
+text-align:center;
+box-shadow:0 8px 25px rgba(0,0,0,0.08);
+transition:0.3s;
+}
+
+.card:hover{
+transform:translateY(-8px);
+box-shadow:0 18px 40px rgba(0,0,0,0.15);
+}
+
+.card h3{
+margin-bottom:12px;
+font-size:19px;
+}
+
+.card p{
+color:#666;
+font-size:14px;
+margin-bottom:18px;
+}
+
+.card button{
+background:#e91e63;
+color:white;
+border:none;
+padding:9px 18px;
+border-radius:20px;
+cursor:pointer;
+font-size:14px;
+transition:0.3s;
+}
+
+.card button:hover{
+background:#d81b60;
+}
+
+/* SAVED IDEAS */
+
+.saved{
+margin-top:60px;
+text-align:center;
+font-weight:600;
+}
+
+/* BUSINESS SECTION */
+
+#business{
+background:#fff;
+}
+
+/* SKILLS SECTION */
+
+#skills{
+background:#f3ecf8;
+text-align:center;
+}
+
+#skills p{
+max-width:650px;
+margin:auto;
+color:#555;
+}
+
+/* EVENTS */
+
+#events{
+background:#fff;
+}
+
+/* COMMUNITY */
+
+.community{
+text-align:center;
+background:#f3ecf8;
+padding:100px 20px;
+}
+
+.community p{
+max-width:600px;
+margin:auto;
+color:#555;
+}
+
+/* FOOTER */
+
+.footer{
+text-align:center;
+background:linear-gradient(135deg,#8e44ad,#e91e63);
+color:white;
+padding:30px;
+margin-top:70px;
+font-size:15px;
+/* NGO SECTION */
+
+.ngo{
+text-align:center;
+padding:100px 100px;
+}
+
+.ngo-cards{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+gap:30px;
+margin-top:40px;
+}
+
+.ngo-card{
+background:white;
+padding:35px;
+border-radius:14px;
+box-shadow:0 10px 25px rgba(0,0,0,0.08);
+transition:0.3s;
+}
+
+.ngo-card:hover{
+transform:translateY(-6px);
+box-shadow:0 15px 40px rgba(0,0,0,0.15);
+}
+
+.ngo-card h3{
+color:#e91e63;
+margin-bottom:10px;
+}}
