@@ -144,9 +144,21 @@ background:linear-gradient(135deg,#ff4b8b,#8e44ad);
 color:white;
 }
 
+.intro-left{
+flex:1;
+display:flex;
+justify-content:center;
+transform:translateX(40px);
+}
+
 .intro-left img{
-width:420px;
+width: 720px;
 max-width:100%;
+}
+
+.intro-right{
+flex:1;
+max-width:520px;
 }
 
 .intro-right{
