@@ -195,7 +195,26 @@ Udaan 40+ aims to create a world where age is never a barrier to new beginnings.
 Women deserve opportunities to rediscover their passions, develop new skills, and build successful ventures at any stage of life.
 
 ---
+## 📸 Screenshots
 
+### Landing Page
+![Welcome Page](screenshots/1.png)
+![Landing Page](screenshots/2.png)
+
+
+### Opportunity Finder
+![Finder](screenshots/3.png)
+![Finder](screenshots/4.png)
+![Finder](screenshots/5.png)
+
+### Business Ideas
+![Business](screenshots/6.png)
+
+### Events Section
+![Events](screenshots/7.png)
+
+### Community Section
+![Community](screenshots/8.png)
 ## 👩‍💻 Author
 
 Digisha Adhaduk  
