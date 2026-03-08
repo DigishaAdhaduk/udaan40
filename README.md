@@ -1,4 +1,4 @@
-## 🌸 Udaan 40+
+# 🌸 Udaan 40+
 
 ## Empowering Women to Restart Their Journey After 40
 
@@ -12,10 +12,10 @@ This project was built as part of a Women's Day themed web development challenge
 
 Many women above the age of 40 face challenges such as:
 
-- Career gaps due to family responsibilities
-- Lack of awareness about small business opportunities
-- Limited access to digital skills
-- Lack of community support
+- Career gaps due to family responsibilities  
+- Lack of awareness about small business opportunities  
+- Limited access to digital skills  
+- Lack of community support  
 
 Udaan 40+ aims to bridge this gap by providing opportunities, learning resources, and community connections.
 
@@ -39,29 +39,29 @@ The platform suggests business ideas based on user interests.
 ### 💡 Home Business Ideas
 Provides inspiration for low-investment home businesses such as:
 
-- Homemade food services
-- Craft and handmade products
-- Teaching and tutoring
-- Digital freelancing
+- Homemade food services  
+- Craft and handmade products  
+- Teaching and tutoring  
+- Digital freelancing  
 
 ---
 
 ### 📚 Skill Development
 Encourages women to learn valuable skills including:
 
-- Digital marketing
-- Online teaching
-- Creative skills like art and crafts
-- Communication and language skills
+- Digital marketing  
+- Online teaching  
+- Creative skills like art and crafts  
+- Communication and language skills  
 
 ---
 
 ### 📅 Events & Workshops
 Users can explore upcoming events such as:
 
-- Entrepreneurship seminars
-- Skill workshops
-- Community meetups
+- Entrepreneurship seminars  
+- Skill workshops  
+- Community meetups  
 
 These events help women gain knowledge and connect with others.
 
@@ -71,9 +71,10 @@ These events help women gain knowledge and connect with others.
 The platform encourages networking and support among women who are restarting their journey.
 
 Users can:
-- Connect with others
-- Share experiences
-- Get guidance and mentorship
+
+- Connect with others  
+- Share experiences  
+- Get guidance and mentorship  
 
 ---
 
@@ -81,18 +82,19 @@ Users can:
 The platform supports multiple languages to ensure accessibility for a wider audience.
 
 Languages included:
-- English
-- Hindi
-- Gujarati
+
+- English  
+- Hindi  
+- Gujarati  
 
 ---
 
 ### ❤️ NGO Support
 Udaan 40+ highlights organizations that support women empowerment such as:
 
-- SEWA
-- Google WomenWill
-- Self Help Groups
+- SEWA  
+- Google WomenWill  
+- Self Help Groups  
 
 These organizations provide training, mentorship, and financial support.
 
@@ -112,17 +114,77 @@ Tools:
 
 ---
 
-## 📂 Project Structure-
+## 📂 Project Structure
+
+```
+src
+ ├ components
+ │   ├ Navbar.jsx
+ │   ├ Hero.jsx
+ │   ├ Finder.jsx
+ │   ├ Business.jsx
+ │   ├ Skills.jsx
+ │   ├ Events.jsx
+ │   ├ Community.jsx
+ │   ├ NGOs.jsx
+ │   └ Footer.jsx
+ │
+ ├ data
+ │   ├ ideas.js
+ │   └ lang.js
+ │
+ ├ styles
+ │   └ style.css
+ │
+ ├ App.jsx
+ └ main.jsx
+```
+
+---
+
+## ⚡ How to Run the Project
+
+Clone the repository
+
+```
+git clone https://github.com/YOUR_USERNAME/udaan40.git
+```
+
+Navigate to the project folder
+
+```
+cd udaan40
+```
+
+Install dependencies
+
+```
+npm install
+```
+
+Run the development server
+
+```
+npm run dev
+```
+
+Open in browser
+
+```
+http://localhost:5173
+```
+
+---
 
 ## 🎯 Future Improvements
 
 Possible enhancements:
 
-- Google OAuth authentication
-- AI-based opportunity recommendations
-- Event registration system
-- Mentor matching system
-- Freelance and job opportunities
+- Google OAuth authentication  
+- AI-based opportunity recommendations  
+- Event registration system  
+- Mentor matching system  
+- Freelance and job opportunities  
 
 ---
 
@@ -146,4 +208,4 @@ Full Stack Developer
 
 Inspired by the idea that:
 
-"It's never too late to start again."
+**"It's never too late to start again."**
