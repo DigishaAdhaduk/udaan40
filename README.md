@@ -1,4 +1,118 @@
+## 🌸 Udaan 40+
+
+## Empowering Women to Restart Their Journey After 40
+
+Udaan 40+ is a web platform designed to support women who want to restart their personal or professional journey after the age of 40. Many women pause their careers due to family responsibilities, and this platform helps them rediscover opportunities, develop new skills, and gain the confidence to start again.
+
+This project was built as part of a Women's Day themed web development challenge.
+
 ---
+
+## 🚀 Problem Statement
+
+Many women above the age of 40 face challenges such as:
+
+- Career gaps due to family responsibilities
+- Lack of awareness about small business opportunities
+- Limited access to digital skills
+- Lack of community support
+
+Udaan 40+ aims to bridge this gap by providing opportunities, learning resources, and community connections.
+
+---
+
+## ✨ Features
+
+### 🔍 Opportunity Finder
+Users can search for opportunities such as:
+
+- Pickle business  
+- Tiffin services  
+- Mandala art  
+- Tailoring  
+- Online tutoring  
+
+The platform suggests business ideas based on user interests.
+
+---
+
+### 💡 Home Business Ideas
+Provides inspiration for low-investment home businesses such as:
+
+- Homemade food services
+- Craft and handmade products
+- Teaching and tutoring
+- Digital freelancing
+
+---
+
+### 📚 Skill Development
+Encourages women to learn valuable skills including:
+
+- Digital marketing
+- Online teaching
+- Creative skills like art and crafts
+- Communication and language skills
+
+---
+
+### 📅 Events & Workshops
+Users can explore upcoming events such as:
+
+- Entrepreneurship seminars
+- Skill workshops
+- Community meetups
+
+These events help women gain knowledge and connect with others.
+
+---
+
+### 🤝 Community Support
+The platform encourages networking and support among women who are restarting their journey.
+
+Users can:
+- Connect with others
+- Share experiences
+- Get guidance and mentorship
+
+---
+
+### 🌍 Multilingual Support
+The platform supports multiple languages to ensure accessibility for a wider audience.
+
+Languages included:
+- English
+- Hindi
+- Gujarati
+
+---
+
+### ❤️ NGO Support
+Udaan 40+ highlights organizations that support women empowerment such as:
+
+- SEWA
+- Google WomenWill
+- Self Help Groups
+
+These organizations provide training, mentorship, and financial support.
+
+---
+
+## 🛠 Tech Stack
+
+Frontend:
+- React (Vite)
+- JavaScript
+- HTML
+- CSS
+
+Tools:
+- Git
+- GitHub
+
+---
+
+## 📂 Project Structure-
 
 ## 🎯 Future Improvements
 
