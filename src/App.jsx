@@ -10,7 +10,7 @@ import Events from "./components/Events"
 import Community from "./components/Community"
 import NGOs from "./components/NGOs"
 import Footer from "./components/Footer"
-
+import Login from "./components/Login"
 function App(){
 
 const [enter,setEnter] = useState(false)
